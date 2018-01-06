@@ -1,0 +1,89 @@
+.error_page {
+    background: #00C6D7;
+    position: relative;
+    padding: 11em 0;
+    width: 100%;
+}
+.footer {
+    text-align: center;
+    margin: 18em 0 2em 0;
+}
+.error-top {
+    text-align: center;
+    margin: 7em auto;
+    background: #fff;
+    padding: 2em 2em;
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    -o-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    -moz-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    border: 1px solid rgba(213, 213, 214, 0.85);
+    width: 30%;
+    padding: 2em 2em;
+    position: absolute;
+    left: 35%;
+    top: 13%;
+}
+
+h2.inner-tittle.page {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top: -29%;
+    left: 13%;
+    font-size: 3em;
+    color: #fff;
+    font-weight: bolder;
+    margin-left: -68px;
+}
+
+h3.inner-tittle.t-inner {
+    font-size: 1.8em;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 0.7em;
+    color: #333;
+}
+.login input[type="text"], .login input[type="password"] {
+    width: 100%;
+    padding: 0.9em 1em 0.9em 4em;
+    color: #777;
+    font-size: 15px;
+    outline: none;
+    font-weight: 400;
+    border: 1px solid #ddd;
+    background: url(../images/icons.png) no-repeat 14px 17px;
+    margin: 0.3em 0;
+    font-family: 'Roboto', sans-serif;
+}
+.login input[type="password"] {
+    background: url(../images/icons.png) no-repeat 13px -33px;
+}
+.submit {
+    margin: 1em 0;
+}
+.login input[type="submit"] {
+    font-size: 20px;
+    font-weight: 400;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+    padding: 10px 15px;
+    width: 100%;
+    border: 2px solid #ea4c89;
+    background: #ea4c89;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    transition: 0.5s all;
+
+}
+.checkbox11:last-child {
+    margin-bottom: 0;
+}
+.checkbox11 {
+    padding-left: 27px;
+    font-size: 1em;
+    line-height: 27px;
+    cursor: pointer;
+    position: relative;
+    color: #777;
+}

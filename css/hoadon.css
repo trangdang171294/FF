@@ -1,0 +1,55 @@
+#ct-cart{
+    margin-top: 50px;
+}
+#ct-cart .table-responsive{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+#ct-cart h1{
+    color: #d11920;
+    font-weight: 700;
+}
+#ct-cart .table-responsive tr td{
+    border: 1px solid rgba(221, 221, 221, 0);
+    border-bottom: 1px solid rgba(221, 221, 221, 0.98);
+    font-size: 23px;
+}
+.total{
+    float: right;
+}
+#thanhtoan{
+    padding: 10px;
+    font-size: 19px;
+    width: 192px;
+    float: right;
+    background-color: #d11920;
+    color: white;
+    border-radius: 8px;
+}
+#back{
+    padding: 10px;
+    font-size: 19px;
+    width: 192px;
+    float: left;
+    background-color: #5cb85c;
+    color: white;
+    border-radius: 8px;
+}
+#thanhtoan:hover{
+    background-color: #ac2925;
+}
+#back:hover{
+    background-color: #398439;
+}
+#updatecart{
+    padding: 10px;
+    font-size: 19px;
+    width: 192px;
+    float: inherit;
+    background-color: #337ab7;
+    color: white;
+    border-radius: 8px;
+}
+#ct-giohang img{
+    width: 50%;
+}

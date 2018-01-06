@@ -1,0 +1,105 @@
+/*===============================
+             PRODUCT DETAIL
+ =================================*/
+.pro-detail {
+    padding-top: 69px;
+    color: #474747;
+    margin-botto: 100px;
+    padding-bottom: 50px;
+
+}
+.pro-detail .thumb {
+    float: left;
+    margin-right: 30px;
+    position: relative;
+    width: 625px;
+    min-height: 200px;
+}
+.pro-detail .thumb img {
+    position: absolute;
+}
+.pro-detail .meta {
+    overflow: hidden;
+}
+.clearfix {
+    display: block;
+}
+.pro-detail .meta .box:first-child {
+    margin-left: 0;
+}
+.pro-detail .meta .box {
+    width: 47.7%;
+    float: left;
+    margin-left: 25px;
+}
+.pro-detail .breadcrumb {
+    font-size: 15px;
+    color: #474747;
+    border-bottom: #ebebeb 1px solid;
+    padding-bottom: 7px;
+    margin-bottom: 65px;
+    background-color: #ffffff;
+    border-radius: 0px;
+    font-weight: bolder;
+}
+.pro-detail .cal {
+    font-size: 18px;
+    color: #4e4d4d;
+}
+.vi-lang .pro-detail .addcart {
+    padding: 9px 18px 11px;
+}
+.pro-detail .addcart {
+    display: inline-block;
+    background:#d0963e;
+    color: #fff;
+    font-size: 22px;
+    padding: 7px 18px 13px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+
+    border-radius: 8px;
+}
+.pro-detail .intro-title {
+    border-bottom: #ebebeb 1px solid;
+    padding-bottom: 15px;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+.wp-editor {
+    font-size: 12px;
+    line-height: 19px;
+    font: normal 14px/18px 'Open Sans', Arial, sans-serif;
+    margin-bottom: 25px;
+}
+.wp-editor p {
+    margin-bottom: 18px;
+}
+.pro-detail h1.title {
+    font: normal 35px/36px 'Open Sans', Arial, sans-serif;
+    color: #d11920;
+    padding-left: 2px;
+    margin-bottom: 33px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 34px;
+}
+.pro-detail .thumb img{
+    width: 80%;
+    height: auto;
+}
+.pro-detail .price{
+    border-top: 1px solid rgba(128, 128, 128, 0.26);
+    padding-top: 30px;
+    font-size: 25px;
+    font-weight: bolder;
+    padding-bottom: 25px;
+
+}
+.pro-detail .addcart:hover{
+    background-color: #c41230;
+    color: #FFFFFF;
+}
+
+
